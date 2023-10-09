@@ -25,3 +25,6 @@ Não será aceito o exercício após a data de entrega;
 Execute cada uma das atividades solicitadas, a falta de algum dos itens será descontado em nota;
 
 Caso execute em seu computador pessoal, realize a instalação dos itens a seguir para conclusão da atividade.
+
+## Código:
+![Código](join.sql)
